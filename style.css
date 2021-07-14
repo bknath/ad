@@ -10,7 +10,7 @@ body{
 }
 main{
     width: 80vw;
-    height: 90vh;
+    height: 80vh;
     background-color: azure;
     margin: 4% 10.2%;
     display: flex;
