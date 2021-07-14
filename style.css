@@ -113,13 +113,7 @@ main{
 }
 
 /* Right */
-.right{
-    position: relative;
-}
-.rightCon{
-    position: absolute;
-    left: 25%;
-}
+
 #showPassword{
     display: inline;
 }
