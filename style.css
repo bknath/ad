@@ -70,6 +70,7 @@ main{
     font-family: 'Roboto', sans-serif;
     line-height: 60%;
     padding-left: 1.5%;
+    font-weight: 200;
 }
 
 .signin{
@@ -78,7 +79,7 @@ main{
     color: white;
     align-items: flex-end;
     font-family: 'Lato', sans-serif;
-    font-weight: 350;
+    font-weight: 500;
     padding-left: 1.5%;
 }
 .top-left{
