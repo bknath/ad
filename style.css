@@ -4,7 +4,7 @@
 }
 /* Body & Main */
 body{
-    background-color:rgb(40, 247, 247);
+    background-color:#00DCC5;
     width: 100vw;
     height: 100vh;
     overflow-y: hidden;
@@ -22,9 +22,9 @@ main{
 
 /* left */
 .left{
-    /* background-image: radial-gradient(#05111F 85%,indigo ); */
+    background-image: radial-gradient(#05111F 85%,indigo );
     border-radius: 0% 15% 15% 0%;
-    background-image: url(./Asset/leftCon.svg);
+    /* background-image: url(./Asset/leftCon.svg); */
     height: 100%;
     width: 45%;
     position: relative;
@@ -42,11 +42,10 @@ main{
     position: absolute;
     top: 20%;
     left: 25%;
-     border-left: 1px hotpink solid;
+     border-right: 1px hotpink solid;
      border-top: 1px hotpink solid;
-    border-right: 1px white solid;
+    border-left: 1px white solid;
     border-bottom: 1px white solid;
-    
 }
 .left h1{
     font-family:'Montserrat', sans-serif;
